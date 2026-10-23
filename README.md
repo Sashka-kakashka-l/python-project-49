@@ -13,10 +13,6 @@
 
 ## Установка
 
-<a href="https://asciinema.org/a/bX1NSWM1Dn1gcb3g"><img src="https://asciinema.org/a/bX1NSWM1Dn1gcb3g.svg" alt="asciicast"></a> зависимости, переменные окружения -->
-
-
-<a href="https://asciinema.org/a/MFQa4UzOQdwAmXvE"><img src="https://asciinema.org/a/MFQa4UzOQdwAmXvE.svg" alt="asciicast"></a>
 
 
 ```bash
@@ -25,9 +21,13 @@ cd python-project-49
 ```
 
 ## Использование
+<a href="https://asciinema.org/a/bX1NSWM1Dn1gcb3g"><img src="https://asciinema.org/a/bX1NSWM1Dn1gcb3g.svg" alt="asciicast"></a> зависимости, переменные окружения -->
+
+
+<a href="https://asciinema.org/a/MFQa4UzOQdwAmXvE"><img src="https://asciinema.org/a/MFQa4UzOQdwAmXvE.svg" alt="asciicast"></a>
 
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
-
+<a href="https://asciinema.org/a/4qCaZmd6v7f6U3yo"><img src="https://asciinema.org/a/4qCaZmd6v7f6U3yo.svg" alt="asciicast"></a>
 ---
 
 <details>
