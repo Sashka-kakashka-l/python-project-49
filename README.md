@@ -13,7 +13,7 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+<a href="https://asciinema.org/a/bX1NSWM1Dn1gcb3g"><img src="https://asciinema.org/a/bX1NSWM1Dn1gcb3g.svg" alt="asciicast"></a> зависимости, переменные окружения -->
 
 ```bash
 git clone https://github.com/Sashka-kakashka-l/python-project-49.git
