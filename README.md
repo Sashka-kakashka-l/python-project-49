@@ -29,6 +29,7 @@ cd python-project-49
 <!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
 <a href="https://asciinema.org/a/4qCaZmd6v7f6U3yo"><img src="https://asciinema.org/a/4qCaZmd6v7f6U3yo.svg" alt="asciicast"></a>
 ---
+<a href="https://asciinema.org/a/zSiVlrhhnLmdwXac"><img src="https://asciinema.org/a/zSiVlrhhnLmdwXac.svg" alt="asciicast"></a>
 
 <details>
 <summary>Автоматические тесты Хекслета</summary>
