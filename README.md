@@ -31,6 +31,8 @@ cd python-project-49
 ---
 <a href="https://asciinema.org/a/zSiVlrhhnLmdwXac"><img src="https://asciinema.org/a/zSiVlrhhnLmdwXac.svg" alt="asciicast"></a>
 
+<a href="https://asciinema.org/a/G3LbnpQFn9EmS1RS"><img src="https://asciinema.org/a/G3LbnpQFn9EmS1RS.svg" alt="asciicast"></a>
+
 <details>
 <summary>Автоматические тесты Хекслета</summary>
 

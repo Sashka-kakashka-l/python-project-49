@@ -1,8 +1,5 @@
+
 import random
-
-
-
-
 
 
 def get_progression_game_data():
