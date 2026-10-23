@@ -14,6 +14,6 @@ def get_progression_game_data():
 
     correct_answer = str((lists[c]))
     lists[c] = ".."
-    question = f"{lists}"
+    question = " ".join(map(str, lists))
 
     return question, correct_answer
