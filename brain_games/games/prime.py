@@ -1,5 +1,8 @@
 import random
 
+DESCRIPTION = 'Answer \"yes\" if given number is prime. Otherwise answer \"no\".'
+MIN_START = 1
+MAX_START = 100
 
 def get_prime(num1):
     if num1 <= 1:
@@ -12,7 +15,7 @@ def get_prime(num1):
 
 
 def get_prime_game_data():
-    num1 = random.randint(1, 100)
+    num1 = random.randint(MIN_START, MAX_START)
 
     question = f"{num1}"
     correct_answer = str(get_prime(num1))

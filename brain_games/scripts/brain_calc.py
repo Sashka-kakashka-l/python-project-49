@@ -1,10 +1,10 @@
 from brain_games.engine import run_game
-from brain_games.games.calc import get_calc_game_date
+from brain_games.games.calc import DESCRIPTION, get_calc_game_data
 
 
 def main():
-    rule = 'What is the result of the expression?'
-    run_game(rule, get_calc_game_date)
+
+    run_game(DESCRIPTION, get_calc_game_data)
 
 if __name__ == "__main__":
     main()
